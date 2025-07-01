@@ -35,3 +35,12 @@ This project highlights modern full-stack development skills, integrating user a
 ## Getting Started
 
 Instructions for setup, installation, and running the project locally can be added here.
+
+## Linting
+
+This project uses ESLint integrated with Prettier to ensure code quality and consistent formatting.
+
+### Run lint (check only)
+
+```bash
+npm run lint
