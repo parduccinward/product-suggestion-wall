@@ -1,5 +1,5 @@
-import './globals.css'
 import { ReactNode } from 'react'
+import './globals.css'
 
 export const metadata = {
   title: 'Product Suggestion Wall',
